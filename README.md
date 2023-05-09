@@ -2,8 +2,8 @@
 <h1 align="center">Mucho Gusto 👋, Soy Nicolas Navarrete</h1>
 <h3 align="center">Un apasionado Desarrollador Full Stack de Argentina 🇦🇷</h3> 
 Actualmente trabajando en proyectos personales y en busca de nuevos desafios para aplicar mis habilidades tecnicas y sociales. adoro explorar y aprender cosas nuevas para integrar en mis proyctos posteriores y con facilidad de integracion a nuevos equipos de trabajo
-Con mas de 800 horas de cursado practico-teorico en programacion, destaco en el area de Front-End con tecnologias como React, Redux y JavaScript
-  <h4>Estoy ansioso de empezar nuevas aventuras en este, el mundo de la programacion</h4>
+Con mas de 800 horas de cursado practico-teorico en programacion 🚀 , destaco en el area de Front-End con tecnologias como React, Redux y JavaScript 💻
+  <h4>Estoy ansioso de empezar nuevas aventuras en este, el mundo de la programacion 👨‍💻</h4>
   - 🌱 Actualmente estoy aprendiendo nuevas tecnicas de programacion como TypeScript y en un futuro agregar a mi conocimiento Java para aplicar a proyectos que deseo realizar 
 
 - 📫 Contactame **nicolassantiagonavarrete.nsn@gmail.com**
