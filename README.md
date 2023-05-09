@@ -1,9 +1,8 @@
-### Hi there 👋
-<h2> Hola <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-<h1 align="center">Hola 👋, Soy Nicolas Navarrete</h1>
-<h3 align="center">Un apasionado Desarrollador Full Stack de Argentina</h3>
-<h4>En busca de nuevos desafios para aplicar mis habilidades tecnicas y sociales. adoro explorar y aprender cosas nuevas para aplicarlas en mis futuros proyectos</h4>
-<h4>Con mas de 800 horas de cursado practico-teorico en programacion, me destaco en programacion Front-End con tecnologias como React, Redux y JavaScript</h4>
+<h2> Hola <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+<h1 align="center">Mucho Gusto 👋, Soy Nicolas Navarrete</h1>
+<h3 align="center">Un apasionado Desarrollador Full Stack de Argentina 🇦🇷</h3> 
+<h4>En busca de nuevos desafios para aplicar mis habilidades tecnicas y sociales. adoro explorar y aprender cosas nuevas para aplicarlas en mis futuros proyectos y me se adaptar a equipos nuevos de trabajo</h4>
+<h4>Con mas de 800 horas de cursado practico-teorico en programacion, destaco en el area de Front-End con tecnologias como React, Redux y JavaScript</h4>
 
 - 📫 Contactame **nicolassantiagonavarrete.nsn@gmail.com**
 
