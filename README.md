@@ -7,6 +7,7 @@ Con mas de 800 horas de cursado practico-teorico en programacion 🚀 , destaco 
   - 🌱 Actualmente estoy aprendiendo nuevas tecnicas de programacion como TypeScript y en un futuro agregar a mi conocimiento Java para aplicar a proyectos que deseo realizar 
 
 - 📫 Contactame **nicolassantiagonavarrete.nsn@gmail.com**
+- 💻 visita mi portfolio: https://nikolas-green.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
