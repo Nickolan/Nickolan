@@ -1,13 +1,13 @@
-<h2> Hola <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
-<h1 align="center">Mucho Gusto 👋, Soy Nicolas Navarrete</h1>
-<h3 align="center">Un apasionado Desarrollador Full Stack de Argentina 🇦🇷</h3> 
-Actualmente trabajando en proyectos personales y en busca de nuevos desafios para aplicar mis habilidades tecnicas y sociales. adoro explorar y aprender cosas nuevas para integrar en mis proyctos posteriores y con facilidad de integracion a nuevos equipos de trabajo
-Con mas de 800 horas de cursado practico-teorico en programacion 🚀 , destaco en el area de Front-End con tecnologias como React, Redux y JavaScript 💻
-  <h4>Estoy ansioso de empezar nuevas aventuras en este, el mundo de la programacion 👨‍💻</h4>
-  - 🌱 Actualmente estoy aprendiendo nuevas tecnicas de programacion como TypeScript y en un futuro agregar a mi conocimiento Java para aplicar a proyectos que deseo realizar 
+<h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
+<h1 align="center">Nice to meet you 👋, I'm Nicolas Navarrete</h1>
+<h3 align="center">A passionate Full Stack Developer from Argentina 🇦🇷</h3> 
+Currently working on personal projects and looking for new challenges to apply my technical and social skills. I love to explore and learn new things to integrate in my subsequent projects and with ease of integration to new work teams
+With more than 800 hours of practical-theoretical study in programming 🚀 , I stand out in the Front-End area with technologies such as React, Redux and JavaScript 💻
+  <h4>I am eager to start new adventures in this, the world of programming 👨‍💻</h4>
+  - 🌱 I am currently learning new programming techniques like TypeScript and in the future add to my knowledge Java to apply to projects that I want to perform  
 
-- 📫 Contactame **nicolassantiagonavarrete.nsn@gmail.com**
-- 💻 visita mi portfolio: https://nikolas-green.vercel.app
+- 📫 Contact me **nicolassantiagonavarrete.nsn@gmail.com**
+- 💻 visit my portfolio: https://nikolas-green.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
