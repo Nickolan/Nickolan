@@ -1,34 +1,52 @@
-<h2> Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
-<h1 align="center">Nice to meet you 👋, I'm Nicolas Navarrete</h1>
-<h3 align="center">A passionate Full Stack Developer from Argentina 🇦🇷</h3> 
-Currently working on personal projects and looking for new challenges to apply my technical and social skills. I love to explore and learn new things to integrate in my subsequent projects and with ease of integration to new work teams
-With more than 800 hours of practical-theoretical study in programming 🚀 , I stand out in the Front-End area with technologies such as React, Redux and JavaScript 💻
-  <h4>I am eager to start new adventures in this, the world of programming 👨‍💻</h4>
-  - 🌱 I am currently learning new programming techniques like TypeScript and in the future add to my knowledge Java to apply to projects that I want to perform  
+<div align="center">
+    <h1>Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋, I'm Nicolás Navarrete</h1>
+    <h3>A passionate Full Stack Developer from Argentina 🇦🇷</h3>
+    <br>
+</div>
 
-- 📫 Contact me **nicolassantiagonavarrete.nsn@gmail.com**
-- 💻 visit my portfolio: https://nikolas-green.vercel.app
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/Nikolas-Navarrete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas navarrete" height="30" width="40" /></a>
- <a href="https://twitter.com/Nikolan_Nav" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="nicolas navarrete - twitter" height="40" width="40" /></a>
+<p align="center">
+    Soy un <strong>Desarrollador Full Stack</strong> especializado en la construcción de soluciones <strong>Web y Mobile</strong> escalables. Cuento con más de <strong>un año y medio de experiencia</strong> y utilizo la <strong>Inteligencia Artificial (IA)</strong> para optimizar el desarrollo, la eficiencia y la calidad del código. Mi enfoque es entregar productos funcionales, eficientes y listos para la nube (Azure, Google Cloud).
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="Angular" width="40" height="40"/> </a></p>
+---
 
-<!--
-**Nickolan/Nickolan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">💼 Estado Actual y Trayectoria</h3>
 
-Here are some ideas to get you started:
+- 🔎 Actualmente me encuentro **desempleado y en búsqueda activa** de nuevos desafíos y una oportunidad como Desarrollador Full Stack.
+- ✨ Manejo herramientas de **Inteligencia Artificial** (como Gemini y ChatGPT) para la generación, optimización y refactorización de código, acelerando el ciclo de desarrollo.
+- 🌱 Estoy en curso para obtener el título de **Técnico Universitario en Programación** en la Universidad Tecnológica Nacional (UTN).
+- 💻 Mi experiencia cubre todo el ciclo de vida del desarrollo: desde la base de datos (PostgreSQL, MongoDB) hasta la arquitectura de servidor (Node.js, Express, Java/SpringBoot).
+- 🚀 Dispuesto a aplicar mis habilidades en nuevos desafíos y con facilidad de integración a equipos de trabajo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h3 align="left">🛠️ Tecnologías y Herramientas Destacadas:</h3>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40" height="40"/> </a> 
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="Google Cloud" width="40" height="40"/> </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
+</p>
+
+---
+
+<h3 align="left">🤝 Conéctate conmigo:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/Nikolas-Navarrete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicolas navarrete" height="30" width="40" /></a>
+    <a href="https://twitter.com/Nikolan_Nav" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="nicolas navarrete - X" height="40" width="40" /></a>
+</p>
+
+- 📧 Contacto: **nicolassantiagonavarrete.nsn@gmail.com**
+- 🌐 Visita mi Portafolio: https://nikolas-green.vercel.app
